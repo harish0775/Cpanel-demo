@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/nodexehw/github/
+ - export DEPLOYPATH=/home/nodexehw/repositories/Cpanel-demo/
  - /bin/cp *$DEPLOYPATH  
